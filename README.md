@@ -51,14 +51,13 @@ signal processing or machine learning related to anime or manga
 | Subcategory | Paper | Conference | Memo |
 | ---- | ---- | ---- | ---- |
 | NoHint | [Do You Like Sclera? Sclera-region Detection and Colorization for Anime Character Line Drawings](https://www.atlantis-press.com/journals/ijndc/125913573) | IJNDC2019 |
-|| [Anime Sketch Coloring with Swish-Gated Residual U-Net](https://sci-hub.tw/https://link.springer.com/chapter/10.1007%2F978-981-13-6473-0_17) |ISICA2018 |[Memo](https://twitter.com/mathbbN/status/1271035764483096576)|
 | Atari | [Manga Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/manga/manga.pdf) | ACM Trans. Graph. 2006 |
 | | [TexToons: Practical Texture Mapping for Hand-drawn Cartoon Animations](https://dcgi.fel.cvut.cz/home/sykorad/Sykora11-NPAR.pdf) | NPAR2011 |
 | | [Outline Colorization through Tandem Adversarial Networks](https://arxiv.org/pdf/1704.08834.pdf) | |
 | | [Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks](https://arxiv.org/pdf/1705.01908.pdf) | |
-| | [User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks](https://arxiv.org/pdf/1808.03240.pdf) | ACMMC2018 |
-| | [Two-stage Sketch Colorization](https://github.com/lllyasviel/style2paints/blob/master/papers/sa.pdf) | ACM Trans. Graph. 2018 |
-| | [Anime Sketch Coloring with Swish-gated Residual U-net and Spectrally Normalized GAN](http://www.engineeringletters.com/issues_v27/issue_3/EL_27_3_01.pdf) | |
+| | [User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks](https://arxiv.org/pdf/1808.03240.pdf) | ACMMC2018 | [AlacGAN](https://twitter.com/mathbbN/status/1267980515459493890)|
+| | [Two-stage Sketch Colorization](https://github.com/lllyasviel/style2paints/blob/master/papers/sa.pdf) | ACM Trans. Graph. 2018 | [style2paints](https://qiita.com/MeguruMokke/items/da318e6b0aebc5904fcf)|
+| | [Anime Sketch Coloring with Swish-gated Residual U-net and Spectrally Normalized GAN](http://www.engineeringletters.com/issues_v27/issue_3/EL_27_3_01.pdf) | ISICA2018|[SGRU](https://twitter.com/mathbbN/status/1271035764483096576)|
 | | [PaintsTorch: a User-Guided Anime Line Art Colorization Tool with Double Generator Conditional Adversarial Network](https://dl.acm.org/doi/10.1145/3359998.3369401) | CVMP2019 |
 | Reference | [Unsupervised Colorization of Black-and-White Cartoons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.2629&rep=rep1&type=pdf) | NPAR2004 |
 | | [Reference-based Manga Colorization by Graph Correspondence Using Quadratic Programming](http://yusukematsui.me/pdf/sato_sa2014.pdf) | SIGGRAPH2014 |
@@ -71,7 +70,7 @@ signal processing or machine learning related to anime or manga
 | | [Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence](https://arxiv.org/pdf/2005.05207.pdf) | CVPR2020 |
 | Tag | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf) | ICCV2019 |
 | Video | [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | |
-| | [Deep Line Art Video Colorization with a Few References](https://arxiv.org/pdf/2003.10685.pdf) | | [Memo](https://twitter.com/mathbbN/status/1267531124852441088)|
+| | [Deep Line Art Video Colorization with a Few References](https://arxiv.org/pdf/2003.10685.pdf) | | [distance field map](https://twitter.com/mathbbN/status/1267531124852441088)|
 | | [Line Art Correlation Matching Network for Automatic Animation Colorization](https://arxiv.org/pdf/2004.06718.pdf) | |
 
 ### Automatic Character Lighting
