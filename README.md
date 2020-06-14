@@ -48,9 +48,10 @@ signal processing or machine learning related to anime or manga
 
 ### Automatic Line Art Colorization
 
-| Subcategory | Paper | Conference |
-| ---- | ---- | ---- |
+| Subcategory | Paper | Conference | Memo |
+| ---- | ---- | ---- | ---- |
 | NoHint | [Do You Like Sclera? Sclera-region Detection and Colorization for Anime Character Line Drawings](https://www.atlantis-press.com/journals/ijndc/125913573) | IJNDC2019 |
+|| [Anime Sketch Coloring with Swish-Gated Residual U-Net](https://sci-hub.tw/https://link.springer.com/chapter/10.1007%2F978-981-13-6473-0_17) |ISICA2018 |[Memo](https://twitter.com/mathbbN/status/1271035764483096576)|
 | Atari | [Manga Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/manga/manga.pdf) | ACM Trans. Graph. 2006 |
 | | [TexToons: Practical Texture Mapping for Hand-drawn Cartoon Animations](https://dcgi.fel.cvut.cz/home/sykorad/Sykora11-NPAR.pdf) | NPAR2011 |
 | | [Outline Colorization through Tandem Adversarial Networks](https://arxiv.org/pdf/1704.08834.pdf) | |
@@ -70,7 +71,7 @@ signal processing or machine learning related to anime or manga
 | | [Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence](https://arxiv.org/pdf/2005.05207.pdf) | CVPR2020 |
 | Tag | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf) | ICCV2019 |
 | Video | [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | |
-| | [Deep Line Art Video Colorization with a Few References](https://arxiv.org/pdf/2003.10685.pdf) | |
+| | [Deep Line Art Video Colorization with a Few References](https://arxiv.org/pdf/2003.10685.pdf) | | [Memo](https://twitter.com/mathbbN/status/1267531124852441088)|
 | | [Line Art Correlation Matching Network for Automatic Animation Colorization](https://arxiv.org/pdf/2004.06718.pdf) | |
 
 ### Automatic Character Lighting
